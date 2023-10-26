@@ -1,0 +1,19 @@
+colors:=
+
+1.)Sky-blue.... :=https://coolors.co/palette/8ecae6-219ebc-023047-ffb703-fb8500
+
+2.)Bright pink (Crayola).....:=https://coolors.co/palette/ef476f-ffd166-06d6a0-118ab2-073b4c
+
+3.)Federal blue.....:=https://coolors.co/palette/03045e-0077b6-00b4d8-90e0ef-caf0f8
+
+4.)jet...:=https://coolors.co/2f2f2f-dc7f9b-f7a1c4-e0b7b7-94bfa7
+
+fonts-family:=
+
+1.)https://fonts.google.com/specimen/Open+Sans
+
+2.)https://fonts.google.com/specimen/Inknut+Antiqua
+
+3.)https://fonts.google.com/specimen/Loved+by+the+King
+
+4.)https://fonts.google.com/specimen/Mogra
